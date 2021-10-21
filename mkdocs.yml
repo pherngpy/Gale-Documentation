@@ -1,0 +1,18 @@
+site_name: Gale Documentation
+site_url: https://pherngpy.github.io/
+
+
+# theme 
+theme:
+  name: mkdocs
+  
+  
+
+  # 404 page
+  
+
+  # Necessary for search to work properly
+  
+
+  # Default values, taken from mkdocs_theme.yml
+  
